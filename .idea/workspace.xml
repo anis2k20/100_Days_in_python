@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e579b7b-290d-417f-873b-22a0fcfddaa5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Aang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Aang.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Appa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Appa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Katara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Katara.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Momo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Momo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Sokka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Sokka.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Toph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Toph.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Uncle Iroh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Uncle Iroh.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Zuko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/Letter_for_Zuko.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/Mail Merge Project Start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/._Mail Merge Project Start" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/._Mail Merge Project Start" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._Input" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._Input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._Output" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._Output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/._main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._Letters" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._Letters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._Names" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/._Names" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/Letters/._starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/Letters/._starting_letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/Names/._invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Input/Names/._invited_names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/._ReadyToSend" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/._ReadyToSend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222 Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/ReadyToSend/._example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mail Merge Project Start/__MACOSX/Mail Merge Project Start/Output/ReadyToSend/._example.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/__MACOSX/._us-states-game-start" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/__MACOSX/._us-states-game-start" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/__MACOSX/us-states-game-start/._50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/__MACOSX/us-states-game-start/._50_states.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/__MACOSX/us-states-game-start/._blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/__MACOSX/us-states-game-start/._blank_states_img.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/__MACOSX/us-states-game-start/._main.py" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/__MACOSX/us-states-game-start/._main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/us-states-game-start/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/us-states-game-start/50_states.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/us-states-game-start/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/us-states-game-start/blank_states_img.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/229 us-states-game-start/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/us-states-game-start/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e579b7b-290d-417f-873b-22a0fcfddaa5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +283,7 @@
       <workItem from="1695039481638" duration="987000" />
       <workItem from="1695094364775" duration="6953000" />
       <workItem from="1695120176901" duration="4370000" />
-      <workItem from="1695144788960" duration="1449000" />
+      <workItem from="1695144788960" duration="2163000" />
     </task>
     <task id="LOCAL-00001" summary="Add guessing Game">
       <option name="closed" value="true" />
@@ -367,7 +333,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695145448549</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1695146294796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695146294796</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1695146439587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695146439587</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,10 +379,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add guessing Game" />
     <MESSAGE value="Average height" />
-    <option name="LAST_COMMIT_MESSAGE" value="Average height" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_in_python$passwordGenerator.coverage" NAME="passwordGenerator Coverage Results" MODIFIED="1690612179736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
