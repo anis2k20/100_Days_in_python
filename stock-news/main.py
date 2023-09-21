@@ -6,6 +6,7 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 STOCK_API_KEY = "RX9FRVUN8ICRN1SH"
+NEWS_API_KEY = "db4231876d5543429da41d349c53ca03"
 
     ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
@@ -36,12 +37,21 @@ print(difference)
 diff_percent = (difference/float(yesterday_closing_price))*100
 print(diff_percent)
 #TODO 5. - If TODO4 percentage is greater than 5 then print("Get News").
-if diff_percent>5:
-    print("get news")
+if diff_percent>1:
+    news_params = {
+        "apiKey": NEWS_API_KEY,
+        "qInTitle": COMPANY_NAME
+    }
+    response = requests.get(NEWS_ENDPOINT, params=news_params)
+    response.raise_for_status()
+    articles = response.json()["articles"]
+    print(articles)
+
 
     ## STEP 2: https://newsapi.org/ 
     # Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME. 
-
+    three_articles = articles[:3]
+    print(three_articles)
 #TODO 6. - Instead of printing ("Get News"), use the News API to get articles related to the COMPANY_NAME.
 
 #TODO 7. - Use Python slice operator to create a list that contains the first 3 articles. Hint: https://stackoverflow.com/questions/509211/understanding-slice-notation
