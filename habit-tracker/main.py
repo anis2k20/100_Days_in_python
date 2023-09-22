@@ -51,3 +51,6 @@ pixel_data = {
 
 response = requests.put(url=graph_put_endpoint, json=pixel_data, headers=headers)
 print(response.text)
+
+#my UI dashboard url
+####https://pixe.la/v1/users/anis2k20/graphs/graph1.html#####
