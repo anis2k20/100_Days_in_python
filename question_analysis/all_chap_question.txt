@@ -1,4 +1,4 @@
-﻿Chap 01
+﻿  Chap_01
 1) What is data communication?
 2) Explain data communication characteristics.
 3) Describe simplified data communication model with proper diagram.
@@ -24,8 +24,7 @@
 23) Define different type of noise?
 24) What do you understand by QoS of ATM? Brief about ATM service categories.
 
-
-Chap 02
+  Chap_02
 1) Define analog and digital signal.
 2) What are transmission impairments? Explain the types of transmission impairments.   
 3) Briefly explain Nyquist bandwidth and Shannon capacity formula.
@@ -49,8 +48,9 @@ system?
 15) Explain flow control? 
 16) Difference between AM, PM, FM.  
 17) What are the reason for breaking up large data block into smaller data blocks for         
-transmission?        
-Chap 3:
+transmission?
+
+  Chap_03
 1) Briefly explain: ASK, FSK, PSK and QPSK techniques with principal advantages and 
 disadvantages.
 2) What is constellation diagram? Show the constellation diagram of QPSK.
@@ -74,8 +74,7 @@ HDB3.
 elements are carried by each signal element? How many signal elements do we need? 
 18)   Describe NRZ-I,Bipolar AMI and Manchester for the following data: 01001101011.
 
-
-Chap 4
+  Chap_04
 1) Distinguish between asynchronous and synchronous data transmission.
 2) What do you mean by HDLC?
 3) Describe the basic characteristics of HDLC protocol.
@@ -92,8 +91,7 @@ Chap 4
 14) Explain Frame Synchronization 
 15) Describe Frame Relay architecture of  HDLC.
 
-
-Chap 5
+  Chap_05
 1) What is multiplexing? Describe synchronous time division multiplexing with figure.   
 2) Explain how FDM combines multiple signals into one.
 3) Which of the three multiplexing techniques are common for fiber optic links? Explain with 
@@ -114,8 +112,7 @@ iii. 10.0.0.0/12
 13) “The start and stop bits can be eliminated when character interleaving is used in synchronous 
 TDM”-Justify your answer.  
 
-
-Chap 6
+  Chap_06
 1) What is packet switching network? Mention the advantages of packet switching over circuit 
 switching network.
 2) Describe datagram packet switching technique.
@@ -126,7 +123,6 @@ i. FDM Multiplexing.
 ii. Five devices, each requiring 4000 Hz.  
 iii. 200 Hz guard band. For each device.  
 4)  What is router and routing table? Explain the important characteristics of routing function.
-          
 5) What is SONET? Describe the propagation of light through optical fiber.
 6) What is switching network? Describe circuit switching network with figure.
 7) Explain about X.25 protocol standard.
@@ -143,8 +139,7 @@ sizes does stop-and-wait give an efficiency of at least 50 percent?
 16) What is crossbar switch?
 17) Explain simple switching network with figure.
 
-
-Chap 07
+  Chap_07
 1) How to works Parity Check of Error Detection? 
 2) What is block code? 
 3) Discuss General Algorithm of Hamming code. 
