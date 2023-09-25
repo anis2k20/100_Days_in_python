@@ -1,0 +1,153 @@
+﻿Chap 01
+1) What is data communication?
+2) Explain data communication characteristics.
+3) Describe simplified data communication model with proper diagram.
+4) Briefly describe major communication tasks that involved in data communication.
+5) Describe different types of LAN topologies. 
+6) Distinguish between LAN and WAN.
+7) State the difference between TCP/IP with OSI reference Model.
+8) What is protocol? What are the key elements of protocol?
+9) State the differences between connections less and connection oriented Protocol.  
+10) Discuss the layers of OSI reference model.
+11) Describe the layers of TCP/IP model.
+12) Write down the difference between simplex, half duplex and full duplex transmission mode. 
+13) Write down the difference between circuit switching and packet switching.
+14) What is the difference between a port address, a logical address and a physical address?  
+15) Describe VSAT configuration.
+16) What is transmission impairments? Explain it.
+17) What is IP address? Classify its types.
+18) How does sky propagation differ from line of sight propagation?
+19) What is ISDN? Describe different types of channels used in ISDN?
+20) What is the fundamental purpose of data communication?
+21) Define ATM. Describe ATM architecture protocol.
+22) Define Standard
+23) Define different type of noise?
+24) What do you understand by QoS of ATM? Brief about ATM service categories.
+
+
+Chap 02
+1) Define analog and digital signal.
+2) What are transmission impairments? Explain the types of transmission impairments.   
+3) Briefly explain Nyquist bandwidth and Shannon capacity formula.
+4) What is the channel capacity for a teleprompter channel with a 300 Hz bandwidth and a 
+signal-to-noise ratio of 3DB?
+5) A digital signaling system is required to operate at 9600 bps. If a signal element encodes a 4 
+bit word, what is the minimum required bandwidth of the channel?
+Data and Telecommunications - 149 
+6) Given a channel with an intended capacity of 20 Mbps. The bandwidth of the channel is 3MHz. 
+What signal-to-noise ratio is required in order to achieve this capacity? 
+7) Define transmission media.
+8) What is unguided transmission media? What are the drawback of this?
+9) Explain with figure of a fiber optic cable with its characteristics. 
+Or, what is optical fiber communication? Explain the characteristics of this communication 
+system?
+10) Differentiate between guided and unguided transmission media. 
+11) Define the terms frequency, spectrum and bandwidth.    
+12) Describe propagation of light though optical fiber.    
+13) How Framing in Data Link Layer.       
+14) Explain Go-Back-N ARQ.        
+15) Explain flow control? 
+16) Difference between AM, PM, FM.  
+17) What are the reason for breaking up large data block into smaller data blocks for         
+transmission?        
+Chap 3:
+1) Briefly explain: ASK, FSK, PSK and QPSK techniques with principal advantages and 
+disadvantages.
+2) What is constellation diagram? Show the constellation diagram of QPSK.
+3) Define data rate and signal rate.
+4) Describe data encoding & modulation techniques with figures.
+5) Explain Pulse Code Modulation (PCM) technique with its limitations.   
+6) What is bit rate and baud rate?      
+7) Construct a relation between data rate and bandwidth.
+8) A signal is carrying four bits in each signal element. If 1000 signal elements are sent per 
+second, find the bit rate and baud rate?
+9) What do you mean by line coding and block coding?    
+10) Describe the classification of line code. 
+11) Encode a stem using line code technique. 
+12) Why scrambling technique is used for digital to digital encoding? Depict and describe B8ZS or
+HDB3.         
+13) Discuss NRZ-L and MDescribe NRZ-Ianchester encoding.    
+14) Discuss on hamming code.       
+15) Write down the digital signal encoding format.     
+16) Explain Pulse Code Modulation (PCM) technique with its limitation.
+17) An analog signal has a  bit rate of 8000 bps and a baud rate of 1000 band.How many data 
+elements are carried by each signal element? How many signal elements do we need? 
+18)   Describe NRZ-I,Bipolar AMI and Manchester for the following data: 01001101011.
+
+
+Chap 4
+1) Distinguish between asynchronous and synchronous data transmission.
+2) What do you mean by HDLC?
+3) Describe the basic characteristics of HDLC protocol.
+4) Define data rate and attenuation.
+5) Compare between space-division and time-division switches.
+6) What is Frame Relay?
+7) Explain error detection process.
+8) Discuss Fundamentals of Scrambling Techniques.
+9) What is guided transmission media?
+10) Discus Sliding Window Protocol.
+11) Explain satellite transmission.
+12) Explain the interleaving technique.
+13) Explain the interleaving technique.
+14) Explain Frame Synchronization 
+15) Describe Frame Relay architecture of  HDLC.
+
+
+Chap 5
+1) What is multiplexing? Describe synchronous time division multiplexing with figure.   
+2) Explain how FDM combines multiple signals into one.
+3) Which of the three multiplexing techniques are common for fiber optic links? Explain with 
+reason.
+4) Compare between the features of FDM and TDM.
+5) Define IP address and classification of IPV4.  
+6) What is IP address?
+Find out IPV4 class types and calculating subnet mask as following addresses
+i. 192.16.00/29;  
+ii. 172.17.0.0/23:  
+iii. 10.0.0.0/12 
+7) How data exchange over a full duplex data communication?
+8) Explain multilevel multiplexing.
+9) Define WDM. And compare between TDM & WDM.
+10) Describe NRZ, Bipolar AMI and Manchester.
+11) What do you mean by HDLC? Describe the basic characteristics of HDLC protocol. [2016] 
+12) Describe how does synchronous TDM works? 
+13) “The start and stop bits can be eliminated when character interleaving is used in synchronous 
+TDM”-Justify your answer.  
+
+
+Chap 6
+1) What is packet switching network? Mention the advantages of packet switching over circuit 
+switching network.
+2) Describe datagram packet switching technique.
+3) Given the following information. find the minimum bandwidth required for the path: 
+
+
+i. FDM Multiplexing.  
+ii. Five devices, each requiring 4000 Hz.  
+iii. 200 Hz guard band. For each device.  
+4)  What is router and routing table? Explain the important characteristics of routing function.
+          
+5) What is SONET? Describe the propagation of light through optical fiber.
+6) What is switching network? Describe circuit switching network with figure.
+7) Explain about X.25 protocol standard.
+8) Explain about virtual circuit and datagram approach of packet switching network with 
+necessary diagram.
+9) Describe the need for switching and define a switch.
+10) A channel has a bit rate of 4kbps and a propagation delay of 20 msec. For what range of frame 
+sizes does stop-and-wait give an efficiency of at least 50 percent?
+11) Compare space-division and time division switches.
+12) Discuss the function of Transport layer and network layer. 
+13) Describe circuit switching network with figure.
+14) Define digital switch.
+15) Explain Virtual Circuit switching.
+16) What is crossbar switch?
+17) Explain simple switching network with figure.
+
+
+Chap 07
+1) How to works Parity Check of Error Detection? 
+2) What is block code? 
+3) Discuss General Algorithm of Hamming code. 
+4) Difference between Flow Control and Error Control :  
+5) Discuss HDLC frame types. 
+6) Describe CRC technique for error detection.
